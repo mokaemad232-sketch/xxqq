@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xxqq-ten.vercel.app/sitemap.xml
